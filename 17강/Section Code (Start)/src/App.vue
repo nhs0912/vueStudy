@@ -16,6 +16,7 @@
 
 <script>
     import Counter from './components/Counter.vue';
+    import AnotherCounter from './components/AnotherCounter.vue';
     import Result from './components/Result.vue';
     import AnotherResult from './components/AnotherResult.vue';
 
@@ -29,6 +30,8 @@
             appCounter: Counter,
             appResult: Result,
             appAnotherResult : AnotherResult,
+            appAnotherCounter : AnotherCounter,
+            
         }
     }
 </script>
