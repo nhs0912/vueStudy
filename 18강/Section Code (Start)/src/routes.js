@@ -7,4 +7,4 @@ export const routes = [
     {path: '/portfolio',component : Portfolio},
     {path: '/stocks',component : Stocks},
 
-]
+] 
